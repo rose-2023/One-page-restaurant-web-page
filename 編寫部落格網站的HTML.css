@@ -30,6 +30,7 @@ header nav ul {
   background-color: rgba(255, 255, 255, 0.42); /*0.42是透明度*/
   padding: 12px 0px 10px;
   margin-top: -70px;
+  list-style-type: none;
 }
 .img03 {
   width: 300px;
